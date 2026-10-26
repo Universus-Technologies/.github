@@ -4,20 +4,19 @@
       <source media="(prefers-color-scheme: light)" srcset="./assets/logo vitre terreux sans back.png">
       <img src="./assets/logo vitre terreux sans back.png" alt="Logo Spirale Seed of Life Universus" height="100%">
     </picture> 
-   <br>
-### ⟟₪  Đℝ∑⟑Mš  ₩€  ₸ℝ⊔$⟘
+   </div><br>
 
+# ⟟₪  Đℝ∑⟑Mš  ₩€  ₸ℝ⊔$⟘
+## *We teach machines to listen, so that humanity doesn't have to write.*
 **Universus Technologies** · Québec, Canada 🍁
-
-*We teach machines to listen, so that humanity doesn't have to write.*
 
 </div>
 
 ---
 
-Part alchemy, part architecture — compiling the improbable into production, and building the next universe because this one had too many bugs in the documentation.
+Part alchemy, part architecture — trying and compiling every idea: crazy, absurd, intense. If you thought of it, we’ll materialize it.
 
-Between a doctor's voice and the final report, there is a thin line of silence. We live there. We measure it in milliseconds, and we give it back as time.
+Between a doctor’s voice and the final report, there is a thin line of silence, a space invisible to common consciousness. We live there. We aim to make it measured in milliseconds.
 
 ---
 
