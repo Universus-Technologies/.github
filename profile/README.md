@@ -2,7 +2,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/logo vitre terreux sans back.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/logo vitre terreux sans back.png">
-      <img src="./assets/logo vitre terreux sans back.png" alt="Logo Spirale Seed of Life Universus" height="100%">
+      <img src="./assets/logo vitre terreux sans back.png" alt="Logo Spirale Seed of Life Universus" height="50%">
     </picture> 
    </div><br>
 
