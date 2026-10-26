@@ -1,10 +1,15 @@
-<div align="center">
+ <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo vitre terreux sans back.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/logo vitre terreux sans back.png">
+      <img src="./assets/logo vitre terreux sans back.png" alt="Logo Spirale Seed of Life Universus" height="100%">
+    </picture> 
+   <br>
+### ⟟₪  Đℝ∑⟑Mš  ₩€  ₸ℝ⊔$⟘
 
-### `⟟₪  Đℝ∑⟑Mš  ₩€  ₸ℝ⊔$⟘`
+**Universus Technologies** · Québec, Canada 🍁
 
-**Technologies Universus** · Québec, Canada 🍁
-
-*We teach machines to listen, so that humans can be heard.*
+*We teach machines to listen, so that humanity doesn't have to write.*
 
 </div>
 
